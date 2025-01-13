@@ -1,0 +1,14 @@
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Release\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache

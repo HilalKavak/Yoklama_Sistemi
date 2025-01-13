@@ -1,0 +1,558 @@
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\C# PROJE\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya - Kopya - Kopya - Kopya - Kopya - Kopya (4) - Kopya - Kopya - Kopya - Kopya\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form13.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemi1 - Kopya (2)\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.exe
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.deps.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.runtimeconfig.json
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.AssemblyReference.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form10.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form11.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form12.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form14.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form2.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form3.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form4.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form5.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form6.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form7.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form8.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Form9.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Properties.Resources.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.Resource1.resources
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.GenerateResource.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfoInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.AssemblyInfo.cs
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yok.C37C9BEF.Up2Date
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\refint\bseu_yoklama_sistemi1.dll
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.pdb
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\bseu_yoklama_sistemi1.genruntimeconfig.cache
+C:\Users\hilal\OneDrive\Desktop\bseu_yoklama_sistemii\bseu_yoklama_sistemi1\obj\Debug\net8.0-windows\ref\bseu_yoklama_sistemi1.dll
